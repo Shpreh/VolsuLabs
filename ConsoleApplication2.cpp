@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <stdio.h>
-
+//Проверка оканчивается ли число на 7
 
 int main() 
 {
